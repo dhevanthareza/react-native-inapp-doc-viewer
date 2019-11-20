@@ -1,7 +1,7 @@
 
 {
-  "name": "react-native-inapp-doc-viewer",
-  "version": "3.0.1",
+  "name": "react-native-doc-viewerv2",
+  "version": "2.7.8",
   "description": "React Native Native Module Bridge Quicklock Document Viewer for IOS + Android supports pdf, png, jpg, xls, ppt, doc, docx, pptx, xlx + Video Player mp4 supported ",
   "main": "index.js",
   "scripts": {
@@ -18,13 +18,13 @@
     "Video Player",
     "Doc Viewer"
   ],
-  "author": "Dhevanthareza",
+  "author": "dhevanthareza",
   "license": "MIT",
   "peerDependencies": {
     "react": "^16.3.0-alpha.1",
     "react-native": "0.54.3",
-    "react-native-fs":"^2.3.2",
-    "react-native-doc-viewer": "3.0.0"
+		"react-native-fs":"^2.3.2",
+		"react-native-doc-viewer": "2.7.8"
   },
   "repository": {
     "type": "git",
@@ -33,3 +33,4 @@
     "readme": "https://github.com/dhevanthareza/react-native-inapp-doc-viewer/blob/master/README.md",
   "homepage": "https://github.com/dhevanthareza/react-native-inapp-doc-viewer/blob/master/README.md"
 }
+
